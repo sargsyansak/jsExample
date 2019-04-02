@@ -1,0 +1,11 @@
+.active, a:hover {
+    border-radius: 10px;
+    background-color: cadetblue;
+}
+
+.mess {
+
+    border: 1px solid lightblue;
+    margin-left: 750px;
+    width: 360px;
+}
